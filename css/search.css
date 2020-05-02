@@ -1,0 +1,14 @@
+.Search .icon
+{
+    color: #fff ;
+    font-size: 1.6em ;
+    height: 50px ;
+    width: 45px ;
+    right: 41px ;
+    position: absolute ;
+    top: 16px ;
+    z-index: 1 ;
+    border: 1px solid rgba(250, 245 , 245, 245, 0.5 ) ;
+    line-height: 50px ;
+    text-align: center ;
+}
