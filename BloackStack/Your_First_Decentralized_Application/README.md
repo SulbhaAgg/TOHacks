@@ -4,7 +4,7 @@ This is the code for "A Guide to Building Your First Decentralized Application" 
 
 ## Overview
 
-This is the code for [this](https://youtu.be/gSQXq2_j-mw) video on Youtube by Siraj Raval. It's a guide on how to build your first decentralized application. 
+It's a guide on how to build your first decentralized application. 
 
 ## Dependencies
 
