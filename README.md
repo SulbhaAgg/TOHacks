@@ -1,4 +1,6 @@
-# TOHacks
+![](images/logo.png)
+
+A platform which help people to find emergency shelters.
 
 ## Inspiration
 <ul>
