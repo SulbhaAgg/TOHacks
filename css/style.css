@@ -112,6 +112,15 @@ body {
 	width: 100%;
 	outline: none;
 }
+.dropdown-menu {
+	top: 60px;
+	right: 0px;
+	left: unset;
+	width: 460px;
+	box-shadow: 0px 5px 7px -1px #c1c1c1;
+	padding-bottom: 0px;
+	padding: 0px;
+}
 .dropdown-menu:before {
 	content: "";
 	position: absolute;
