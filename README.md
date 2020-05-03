@@ -1,6 +1,7 @@
 ![](images/logo.png)
 
-A platform which help people to find emergency shelters.
+A platform which helps people to find emerygecy shelters.
+
 
 ## Inspiration
 <ul>
