@@ -18,7 +18,7 @@ It is a platform that let’s people know if there are any vacant rooms in hotel
 <ul>
 <li>
 User can put in their location to find the closed room available to them.
-</li>
+</li></br>
 <ul>Login:
 <li>
 This website is made specifically to ensure that everyone will be able to easily reserve a room, even if they don’t have much experience using technology. 
@@ -26,18 +26,18 @@ This website is made specifically to ensure that everyone will be able to easily
 <li>
 People are only required to login when they are ready to reserve a room. If someone doesn’t have a smart device, there is also an option to create a temporary login for someone else.
 </li>
-</ul>
+</ul></br>
 <li>Book a room: Booking a room is easy. First they will click on reserve a room, it will take them directly to the login page. After logging in they just have to scroll down and click on “book your room” and it's done. Now they have a safe place to stay. 
-</li>
+</li></br>
 <li>
 Notification: In case if their selected hotel gets full, then it will send you a notification. And if there are any cancellation or availabilities it alerts them using this notification button. 
-</li>
+</li></br>
 <ul>Ratings:
 <li>After each stay people will be able to rate their stay by a positive rating or a negative rating. All positive ratings adds up and highlights next to each hotel. </li>
 <li>This rating is important because we can know to take actions if a hotel has many negative ratings and to highlight top 5 hotels each week. with most number of stays.
 </li>
-</ul>
-<li>Along with providing a safe environment for people, LikeHome will also give business owners an opportunity to get a head of their competition by simply utilizing empty rooms.</li>
+</ul></br>
+<li>Along with providing a safe environment for people, LikeHome will also give business owners an opportunity to get a head of their competition by simply utilizing empty rooms.</li></br>
 <li>The Interface is equally simple for hotels, so Each time a room is reserved a script is generated and gets converted to an excel sheet using UI path. </li>
 </ul>
 
